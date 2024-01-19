@@ -1,6 +1,6 @@
 # Data Management Plan - API for Kafka and Postgres
 
-This project was created to provide an efficient and consistent methodology to collect the requirements of researcher’s project requirements and needs at the Department of Fisheries and Oceans. Many of the questions have been removed on the request of the department. It allows for instant data analytics through Kafka, in addition to separate endpoints for direct Postgres integration and file management.
+This project was created to provide an efficient and consistent methodology to collect the requirements of researcher’s project requirements and needs at the Department of Fisheries and Oceans. **Many of the questions have been removed on the request of the department.** Therefore it is a simplified version of the API. It allows for instant data analytics through Kafka, in addition to separate endpoints for direct Postgres integration and file management.
 
 ## Directories
 
