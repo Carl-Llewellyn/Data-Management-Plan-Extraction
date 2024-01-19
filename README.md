@@ -5,7 +5,7 @@ This project was created to provide an efficient and consistent methodology to c
 ## Directories
 
 ### Routes directory
-Contains a "routes" directory for the handlers which is split by Kafka and Postgres. Within the "spi" directory are also all configurations (using a .env file) in addition to structs for json models.
+Contains a "routes" directory for the handlers which is split by Kafka and Postgres. Within the "api" directory are also all configurations (using a .env file) in addition to structs for json models.
 
 ### Logger directory
 Contains a logging package to allow for easy logging to a file and console, depending on console flags.
